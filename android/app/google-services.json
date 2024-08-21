@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "999806630653",
+    "project_id": "wallfeast-a2559",
+    "storage_bucket": "wallfeast-a2559.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:999806630653:android:a2fc2668e5523ac4015c94",
+        "android_client_info": {
+          "package_name": "com.example.wallpaper_gallery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7T76Cfq38Akq5vXtmA_5kVpajQqctH-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

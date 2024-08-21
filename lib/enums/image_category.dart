@@ -1,0 +1,21 @@
+enum ImageCategory {
+  nature,
+  urban,
+  abstract,
+  animals,
+  space,
+  technology,
+  minimalism,
+  seasonal,
+  travel,
+  food,
+  art,
+  sports,
+  fashion,
+  fantasy,
+  landscapes,
+  blackAndWhite, // Special formatting for enum values with multiple words
+  quotes,
+  cars,
+  anime,
+}

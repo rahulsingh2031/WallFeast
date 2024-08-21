@@ -1,0 +1,1 @@
+enum AuthenticationType { emailAndPassword, anonymously }
